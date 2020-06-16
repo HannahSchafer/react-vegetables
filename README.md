@@ -34,22 +34,22 @@ I chose to make most stateless components functional for performance while keepi
 ### Screenshots
 
 Desktop Upper
-![alt text](public/assets/readme/desktop_upper.png "desktop page - upper")
+![alt text](public/assets/desktop_upper.png "desktop page - upper")
 
 Desktop Lower
-![alt text](public/assets/readme/desktop_lower.png "desktop page - lower")
+![alt text](public/assets/desktop_lower.png "desktop page - lower")
 
 Mobile Upper - Nav Closed
-![alt text](public/assets/readme/mobile_upper_nav_closed.png "mobile web - upper - nav closed")
+![alt text](public/assets/mobile_upper_nav_closed.png "mobile web - upper - nav closed")
 
 Mobile Upper - Nav Open
-![alt text](public/assets/readme/mobile_upper_nav_open.png "mobile web - upper - nav open")
+![alt text](public/assets/mobile_upper_nav_open.png "mobile web - upper - nav open")
 
 Mobile Lower
-![alt text](public/assets/readme/mobile_lower.png "mobile web - lower")
+![alt text](public/assets/mobile_lower.png "mobile web - lower")
 
 Language Selector
-![alt text](public/assets/readme/language_selector.png "language selector - open")
+![alt text](public/assets/language_selector.png "language selector - open")
 
 Get Started Button - Translated
-![alt text](public/assets/readme/translated_button.png "get started button - translated")
+![alt text](public/assets/translated_button.png "get started button - translated")
